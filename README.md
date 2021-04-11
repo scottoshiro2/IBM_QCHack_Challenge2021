@@ -19,9 +19,8 @@ Note - All projects submitted must be using Qiskit version 0.25. Anyone can subm
 
 ## Jupyter Notebooks
 
-* [Quantum_AdditiveSynth.ipynb -  Major Project where we apply higher energy states ](./Quantum_AdditiveSynth.ipynb)
-* [Accessing Higher Energy States.ipynb - Higher Energy States Qudits ](./Accessing Higher Energy States.ipynb)
-
+* [Quantum_AdditiveSynth.ipynb, Major Project where we apply higher energy states ](./Quantum_AdditiveSynth.ipynb).
+* [Quantum_AdditiveSynth.ipynb, Major Project where we apply higher energy states](./Accessing Higher Energy States.ipynb)
 
 ## What Use Cases It Solves?
 
