@@ -17,6 +17,12 @@ Note - All projects submitted must be using Qiskit version 0.25. Anyone can subm
 ## Presentation :
 * [Please find attached the presentation containing outputs of the Jupyter Notebook and the other files](https://drive.google.com/file/d/1Jt0dvSInOMhl8bPqf0cLMYBS5J4l8T26/view?usp=sharing)
 
+## Jupyter Notebooks
+
+* [Quantum_AdditiveSynth.ipynb -  Major Project where we apply higher energy states ](./Quantum_AdditiveSynth.ipynb)
+* [Accessing Higher Energy States.ipynb - Higher Energy States Qudits ](./Accessing Higher Energy States.ipynb)
+
+
 ## What Use Cases It Solves?
 
 *So far quantum audio signal processing algorithms have been trying to represent audio signals as a classical digital signals encoded on to qubits. As we saw, this is not sustainable as we scale up to more complex signals.*
